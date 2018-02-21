@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slimiter.Core", "Slimiter.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slimiter.Core.Testing", "Slimiter.Core.Test\Slimiter.Core.Testing.csproj", "{B43B2FF0-2222-45CB-B17C-FB70508792B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slimiter.ServiceHost", "Slimiter.ServiceHost\Slimiter.ServiceHost.csproj", "{92CFB949-9209-427B-B1F8-72F001C20B42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B43B2FF0-2222-45CB-B17C-FB70508792B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B43B2FF0-2222-45CB-B17C-FB70508792B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B43B2FF0-2222-45CB-B17C-FB70508792B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CFB949-9209-427B-B1F8-72F001C20B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CFB949-9209-427B-B1F8-72F001C20B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CFB949-9209-427B-B1F8-72F001C20B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CFB949-9209-427B-B1F8-72F001C20B42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
